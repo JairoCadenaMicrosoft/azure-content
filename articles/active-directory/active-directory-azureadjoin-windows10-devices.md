@@ -105,10 +105,10 @@ All methods described above (Domain Join, Azure AD Join and Add work account) ha
 To deploy Azure AD Join for any set of users you need the following:
 ---------------------------------------------------------------------------
 - Have an Azure AD subscription.
-- More capabilities will require an Azure AD Premium subscription such as MDM auto-enrollment.
+More capabilities will require an Azure AD Premium subscription such as MDM auto-enrollment.
 - Have an Azure AD Premium subscription.
 - Have an MDM (Intune subscription or MDM for Office365 or any of the 3rd party MDM vendors who integrate with Azure AD – see the FAQ section for details)
-- If you are hybrid, it is highly recommended to do the following:
+If you are hybrid, it is highly recommended to do the following:
 - Deploy Azure AD Connect to extend on-premises directory to Azure AD.
 
 ##Domain join
